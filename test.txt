@@ -1,6 +1,15 @@
 test分支
+master修改了test文件
+修改了test
+修改
+小老弟
 修改了test
 修改了分支duan0130
 本地文件修改
+
+今天我修改了test分支，testtxt文件
+远程修改了test文件
+git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+duan
 远程修改了test文件
 ss
